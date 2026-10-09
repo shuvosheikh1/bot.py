@@ -19,12 +19,12 @@ from urllib.parse import urljoin
 # ==========================================
 # Configuration (Token & Owner ID)
 # ==========================================
-TOKEN = "8805524764:AAEgQLz4yXYq0z0ZhR7wZWS8t23qXfe1jxU"
+TOKEN = "8646320419:AAGQ1ZupfgCjLlPBSolnQh2yWjrX3AftRXk"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
-OWNER_ID = 8106259341
-BOT_USERNAME = "@AS_OTPZoneBot"
+OWNER_ID = 6012046436
+BOT_USERNAME = "@Sheikh_shuvobot"
 DB_FILE = "bot_data.json"
 
 # ==========================================
